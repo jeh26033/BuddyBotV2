@@ -1,0 +1,14 @@
+{
+  "name": "Buddy-Bot",
+  "version": "2.0.0",
+  "description": "Buddy Bot REBORN",
+  "main": "bot.js",
+  "author": "Joseph Harskamp",
+  "dependencies": {
+    "bot-utils": "^1.4.2",
+    "discord.io": "^2.5.3",
+    "discord.js": "^12.0.1",
+    "discord.js-commando": "github:discordjs/Commando",
+    "winston": "^3.2.1"
+  }
+}
